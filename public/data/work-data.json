@@ -1,0 +1,29 @@
+{
+  "workData": [
+    {
+      "image": "/images/work/wisenz pic .png",
+      "title": "Wisenz Learning Platform",
+      "slug": "http://82.180.144.191:3001/teacher/login"
+    },
+    {
+      "image": "/images/work/scholarbridge1 pic.png",
+      "title": "ScholarBridge Learning Management System",
+      "slug": "https://admin.scholarbridgelms.com"
+    },
+    {
+      "image": "/images/work/findeasy pic.png",
+      "title": "FindEasy Portal",
+      "slug": "https://findeasy.net"
+    },
+    {
+      "image": "/images/work/beenet pic.png",
+      "title": "Beenet Services",
+      "slug": "https://csmm.bee-net.co.uk/"
+    },
+    {
+      "image": "/images/work/campuslink pro pic.png",
+      "title": "CampusLink Pro Portal",
+      "slug": "https://school.campuslink.pro/login"
+    }
+  ]
+}
