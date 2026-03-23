@@ -3,7 +3,7 @@ import type { NextConfig } from "next";
 const basePath = process.env.NODE_ENV === "production" ? "/Resume-Nextjs" : "";
 
 const nextConfig: NextConfig = {
-  output: "export",
+  // output: "export",
   basePath,
   assetPrefix: basePath,
   images: {
